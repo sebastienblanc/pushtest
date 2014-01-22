@@ -1,0 +1,27 @@
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes.dex : \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/org/jboss/aerogear/cordova/push/PushPlugin$1.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/org/jboss/aerogear/cordova/push/NotificationMessageHandler.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/org/jboss/aerogear/cordova/push/PushPlugin$2.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/org/jboss/aerogear/cordova/push/PushPlugin$VoidCallback.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/org/jboss/aerogear/cordova/push/PushPlugin.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/org/jboss/aerogear/cordova/push/PushHandlerActivity.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/org/jboss/aerogear/cordova/push/PushPlugin$3.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/R$attr.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/Manifest.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/R$string.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/BuildConfig.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/R.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/Manifest$permission.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/R$drawable.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/R$layout.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/HelloCordova.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/classes/io/cordova/hellocordova/R$xml.class \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/cordova-3.0.0-390d194109515c30380204bc1f36ed35.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/gson-2.2.2-597394d22f11915e9f82fd177febee32.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/aerogear-android-1.2.0-7d305e6011ae5fc7960c323abcb88730.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/jsr305-1.3.9-9920cebccb361a6e88ca9b5a6f1c3f7b.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/javax.inject-1-1c0274d5112f6867d57797d286d03adf.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/gcm-1fafb71f78cb9d04066eaa88318c8dea.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/guava-14.0.1-8cf6d46d68947cfe2dade100655b28be.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/google-play-services-1987098ba190e48bbc53ce8794adc667.jar \
+/home/sebastien/aerogear/pushdemos/marsjug/pushtest/platforms/android/bin/dexedLibs/android-support-v13-9f0d47c51eb2465cebe311d55a80b345.jar \
